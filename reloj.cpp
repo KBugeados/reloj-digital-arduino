@@ -15,10 +15,10 @@ int hour_button_pressed = 0;
 int minute_button_pressed = 1;
 
 //Number pins
-int D1 = 2;
-int D2 = 3;
-int D3 = 4;
-int D4 = 5;
+int D1 = 5;
+int D2 = 4;
+int D3 = 3;
+int D4 = 2;
 
 //Segment pins
 int A = 6;
